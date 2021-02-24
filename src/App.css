@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+button{
+  border-radius: 100%;
+}
+
+button:hover {
+background-color: pink;
+}
